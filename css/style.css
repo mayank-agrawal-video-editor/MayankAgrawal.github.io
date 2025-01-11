@@ -657,7 +657,7 @@ section.active {
 
 .portfolio-carousel .img-item iframe {
     display: block;
-    object-fit: wrap;
+    object-fit: cover;
     width: 100%;
     height: 100%;
     border-radius: 1rem;
