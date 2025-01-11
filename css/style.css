@@ -655,7 +655,7 @@ section.active {
     height: inherit;
 }
 
-.portfolio-carousel .img-item video {
+.portfolio-carousel .img-item iframe {
     display: block;
     object-fit: wrap;
     width: 100%;
